@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="13px" viewBox="0 0 19 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Index" stroke="none" stroke-width="1" fill="#D18470" fill-rule="evenodd">
+        <g id="G04---Editorial" transform="translate(-1246.000000, -6438.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group-20" transform="translate(173.000000, 6417.000000)">
+                <g id="Group" transform="translate(1082.500000, 27.300000) rotate(90.000000) translate(-1082.500000, -27.300000) translate(1076.800000, 17.800000)">
+                    <path fill="#D18470" d="M0,18.81 C2.66,15.77 5.51,10.64 6.46,9.5 C5.51,8.36 2.66,3.23 0,0.19 L0.19,0 C2.85,3.04 11.02,9.12 11.4,9.5 C11.02,9.88 2.85,15.96 0.19,19 L0,18.81 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
